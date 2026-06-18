@@ -1,0 +1,39 @@
+# Visual Studio / IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+build/
+out/
+
+# Compiled binaries and debug artifacts
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+*.pdb
+*.ilk
+*.ipch
+
+# Dependency/package folders restored by tooling
+packages/
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# OS files
+.DS_Store
+Thumbs.db
